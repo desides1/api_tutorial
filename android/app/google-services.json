@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "778943463004",
+    "firebase_url": "https://ayo-curhat-3b698-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ayo-curhat-3b698",
+    "storage_bucket": "ayo-curhat-3b698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778943463004:android:f8b73d55c589d950a33099",
+        "android_client_info": {
+          "package_name": "com.example.api_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEn1LD1NHPMfhhb83iCIvV7U-a72pnkJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
